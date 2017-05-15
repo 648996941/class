@@ -4,4 +4,8 @@ echo  3
 =======
 ech2
 >>>>>>> .merge_file_a09360
+<<<<<<< HEAD
 echo  wenwen
+=======
+echo 4
+>>>>>>> master
