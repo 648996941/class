@@ -1,2 +1,6 @@
 込込込込
+<<<<<<< .merge_file_a08360
 echo  3
+=======
+ech2
+>>>>>>> .merge_file_a09360
